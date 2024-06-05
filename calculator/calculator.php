@@ -11,7 +11,7 @@
     </style>
 </head>
 <body>
-    <h1><color ="red"><b><u>Multipurpose Calculator</u></b></h1>
+    <h1><b><u>Multipurpose Calculator</u></b></h1>
     <form method="post" action="calculator.php">
         <input type="number" name="num1" placeholder="Enter first number" required><br><br>
         <select name="operator">
